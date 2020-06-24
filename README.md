@@ -29,3 +29,6 @@ As Dagger and Hilt can coexist together, apps can be migrated on an as-needed ba
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+# TODO
+- [ ] 회사 프로젝트 마이그레이션 하기
