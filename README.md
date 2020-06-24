@@ -1,6 +1,6 @@
 # Migrating from Dagger to Hilt in your Android app
 
-This folder contains the source code for the "Migrating from Dagger to Hilt in your Android app" codelab.
+This folder contains the source code for the "Migrating from Dagger to Hilt in your Android app" [codelab](https://codelabs.developers.google.com/codelabs/android-dagger-to-hilt/#0).
 
 The codelab is built in multiple GitHub branches:
 * `master` is the codelab's starting point.
